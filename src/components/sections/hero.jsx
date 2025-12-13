@@ -14,7 +14,7 @@ const Hero = () => {
                     <div className="col-lg-4">
                         <SlideUp>
                             <div className="about-image-part">
-                                <img src={"/images/about/image.jpeg"} alt="About Me" />
+                                <img src={"/personal_portfolio/images/about/image.jpeg"} alt="About Me" />
                                 <h2>HADIJI Sirine</h2>
                                 <p>I am a Full Stack Developer.</p>
                                 <div className="about-social text-center">

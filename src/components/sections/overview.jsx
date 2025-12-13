@@ -73,7 +73,7 @@ const Card = ({ category, title, src, animationClass, id }) => {
             <SlideUp delay={id}>
                 <div className="project-item style-two">
                     <div className="project-image">
-                        <Image width={383} height={249} sizes='100vw' style={{width:"100%", height:"auto"}} src={src} alt="Project" />
+                        <Image  unoptimized width={383} height={249} sizes='100vw' style={{width:"100%", height:"auto"}} src={src} alt="Project" />
                     </div>
                     <div className="project-content">
                         <h3>{title}</h3>
