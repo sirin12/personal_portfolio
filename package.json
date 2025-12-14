@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "gh-pages -d out"
+    "lint": "next lint"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -19,8 +18,5 @@
     "react-dom": "^18",
     "react-fast-marquee": "^1.6.5",
     "swiper": "^11.1.9"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }

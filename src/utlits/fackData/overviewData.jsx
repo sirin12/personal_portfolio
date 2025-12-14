@@ -1,25 +1,25 @@
 export const overviewData = [
     {
         id: 1,
-        src: "/personal_portfolio/images/projects/work1.jpg",
+        src: "/images/projects/1.jpg",
         category: "Design",
         title: "Web Developer",
     },
     {
         id: 2,
-        src: "/personal_portfolio/images/projects/work2.jpg",
+        src: "/images/projects/2.jpg",
         category: "Game",
         title: "Tech Problem Solver",
     },
     {
         id: 3,
-        src: "/personal_portfolio/images/projects/work3.jpg",
+        src: "/images/projects/3.jpg",
         category: "Branding",
         title: "AI Experimenter",
     },
     {
         id: 4,
-        src: "/personal_portfolio/images/projects/work4.jpg",
+        src: "/images/projects/4.jpg",
         category: "Marketing",
         title: "Data-Driven Thinker"
     },

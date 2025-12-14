@@ -156,7 +156,7 @@ const CardWork = ({ year, title, institution, description,technologies }) => {
                     <RiBriefcaseLine />
                 </div>
                 <div className="content">
-                    <h4>{title}</h4>
+                    <h4 className="titreWork" >{title}</h4>
                     <span className="company">{institution}</span>
                     <span className="years">{year}</span>
 

@@ -9,12 +9,12 @@ const PartnersMarquee = () => {
                 <div className="scroller">
                     <div className="scroller__inner">
                         <Marquee>
-                            <img src={"/personal_portfolio/images/client-logos/partner1.png"} alt="" />
-                            <img src={"/personal_portfolio/images/client-logos/partner2.png"} alt="" />
-                            <img src={"/personal_portfolio/images/client-logos/partner3.png"} alt="" />
-                            <img src={"/personal_portfolio/images/client-logos/partner4.png"} alt="" />
-                            <img src={"/personal_portfolio/images/client-logos/partner5.png"} alt="" />
-                            <img src={"/personal_portfolio/images/client-logos/partner1.png"} alt="" />
+                            <img src={"/images/client-logos/partner1.png"} alt="" />
+                            <img src={"/images/client-logos/partner2.png"} alt="" />
+                            <img src={"/images/client-logos/partner3.png"} alt="" />
+                            <img src={"/images/client-logos/partner4.png"} alt="" />
+                            <img src={"/images/client-logos/partner5.png"} alt="" />
+                            <img src={"/images/client-logos/partner1.png"} alt="" />
                         </Marquee>
                     </div>
                 </div>

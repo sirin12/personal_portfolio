@@ -78,7 +78,7 @@ const Card = ({ img, name, position, review }) => {
         <SlideUp>
             <div className="testimonial-item">
                 <div className="author">
-                    <Image  unoptimized width={60} height={60} sizes='100vw' src={img} alt="Author" />
+                    <Image width={60} height={60} sizes='100vw' src={img} alt="Author" />
                 </div>
                 <div className="text">{review}</div>
                 <div className="testi-des">

@@ -10,11 +10,7 @@ export const menuList = [
         label: "About"
     },
 
-    // {
-    //     id: 4,
-    //     path: "/works",
-    //     label: "Works"
-    // },
+ 
     {
         id: 5,
         path: "/contact",

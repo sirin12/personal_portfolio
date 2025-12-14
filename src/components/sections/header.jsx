@@ -38,7 +38,7 @@ const Header = () => {
                         <div className="logo-outer">
                             <div className="logo">
                                 <Link href="/">
-                                    <Image  unoptimized width={120} height={40} sizes='100vw' src={"/personal_portfolio/images/logo.png"} alt="Logo" title="Logo" />
+                                    <Image width={100} height={70} sizes='50vw' src={"/images/logo.png"} alt="Logo" title="Logo" />
                                 </Link>
                             </div>
                         </div>
@@ -50,7 +50,7 @@ const Header = () => {
                                 <div className="navbar-header">
                                     <div className="mobile-logo">
                                         <Link href="/">
-                                            <Image  unoptimized width={75} height={25} sizes='100vw' src={"/personal_portfolio/images/logo.png"} alt="Logo" title="Logo" />
+                                            <Image width={75} height={25} sizes='100vw' src={"/images/logo.png"} alt="Logo" title="Logo" />
                                         </Link>
                                     </div>
                                     {/* <!-- Toggle Button --> */}

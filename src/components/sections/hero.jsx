@@ -14,12 +14,11 @@ const Hero = () => {
                     <div className="col-lg-4">
                         <SlideUp>
                             <div className="about-image-part">
-                                <img src={"/personal_portfolio/images/about/image.jpeg"} alt="About Me" />
+                                <img src={"/images/about/image.jpeg"} alt="About Me" />
                                 <h2>HADIJI Sirine</h2>
                                 <p>I am a Full Stack Developer.</p>
                                 <div className="about-social text-center">
                                     <ul>
-                                        <li><Link target='_blank' href="https://www.facebook.com/sirin.hadiji.2025"><RiFacebookCircleFill size={20} /></Link></li>
                                         <li><Link target='_blank' href="https://www.threads.com/@sirin_hadiji"><RiTwitterXLine size={20} /></Link></li>
                                         <li><Link target='_blank' href="https://www.linkedin.com/in/sirine-hadiji-3438a9242/"><RiLinkedinFill size={20} /></Link></li>
                                         <li><Link target='_blank' href="https://github.com/sirin12"><RiGithubLine size={20} /></Link></li>

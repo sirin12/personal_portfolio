@@ -9,16 +9,10 @@ const Summery = () => {
             <div className="container">
                 <div className="row">
                     {/* <!-- START ABOUT IMAGE DESIGN AREA --> */}
-                    <div className="col-lg-3">
-                        <SlideUp>
-                            <div className="about-image-part">
-                                <img src={"/personal_portfolio/images/about/profile.png"} alt="About Me" />
-                            </div>
-                        </SlideUp>
-                    </div>
+     
                     {/* <!-- / END ABOUT IMAGE DESIGN AREA -->
                     <!-- START ABOUT TEXT DESIGN AREA --> */}
-                    <div className="col-lg-9">
+                    <div className="col-lg-12">
                         <SlideUp>
                             <div className="about-content-part">
                                 <h2>
